@@ -10,17 +10,11 @@ load_dotenv()
 interviewer = create_interviewer_chain()
 evaluator = create_evaluator_chain()
 
-# Create conversation memory
+# Create a fresh interview session
 memory = ConversationMemory()
+memory.clear_history()
 
-# Load previous conversations
 history = []
-
-for message in memory.get_history():
-    if message["role"] == "interviewer":
-        history.append(AIMessage(content=message["content"]))
-    elif message["role"] == "candidate":
-        history.append(HumanMessage(content=message["content"]))
 
 # Retrieve relevant job description context
 retriever = get_retriever()
