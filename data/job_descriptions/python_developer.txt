@@ -1,0 +1,22 @@
+Job Title: Python Developer
+
+Company: Tech Solutions
+
+Required Skills:
+- Python programming
+- Object-Oriented Programming (OOP)
+- Django framework
+- SQL and databases
+- REST APIs
+- Data Structures and Algorithms (DSA)
+
+Responsibilities:
+- Develop applications using Python.
+- Build backend APIs.
+- Work with databases.
+- Debug and maintain applications.
+- Write clean and reusable code.
+- Test and improve application performance.
+
+Experience:
+- Fresher / 0–1 years
