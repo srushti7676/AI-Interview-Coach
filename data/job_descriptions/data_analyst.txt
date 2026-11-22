@@ -1,0 +1,22 @@
+Job Title: Data Analyst
+
+Required Skills:
+- Python programming
+- SQL
+- Excel
+- Pandas and NumPy
+- Data cleaning
+- Data visualization
+- Statistics
+- Matplotlib
+
+Responsibilities:
+- Collect and clean datasets.
+- Analyze structured data.
+- Write SQL queries.
+- Identify trends and patterns.
+- Create data visualizations.
+- Prepare reports and insights.
+
+Experience:
+Fresher / 0-1 years

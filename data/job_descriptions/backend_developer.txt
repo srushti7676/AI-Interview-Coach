@@ -1,0 +1,21 @@
+Job Title: Backend Developer
+
+Required Skills:
+- Python programming
+- Django and Flask
+- REST API development
+- SQL and databases
+- Object-Oriented Programming
+- Data Structures and Algorithms
+- Git and GitHub
+
+Responsibilities:
+- Develop server-side applications.
+- Build and maintain REST APIs.
+- Design and manage databases.
+- Handle application logic.
+- Debug and optimize backend performance.
+- Write clean and reusable code.
+
+Experience:
+Fresher / 0-1 years

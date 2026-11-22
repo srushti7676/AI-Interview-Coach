@@ -1,0 +1,22 @@
+Job Title: Machine Learning Engineer
+
+Required Skills:
+- Python programming
+- Machine Learning algorithms
+- NumPy and Pandas
+- Scikit-learn
+- TensorFlow or Keras
+- Data preprocessing
+- Model evaluation
+- Statistics and mathematics
+
+Responsibilities:
+- Develop machine learning models.
+- Prepare and preprocess datasets.
+- Train and evaluate models.
+- Improve model performance.
+- Work with machine learning libraries.
+- Analyze model predictions.
+
+Experience:
+Fresher / 0-1 years

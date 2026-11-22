@@ -1,0 +1,24 @@
+Job Title: Full Stack Developer
+
+Required Skills:
+- HTML and CSS
+- JavaScript
+- React.js
+- Python or Java
+- Django or Node.js
+- REST API development
+- SQL and databases
+- Git and GitHub
+- Object-Oriented Programming
+
+Responsibilities:
+- Develop frontend and backend applications.
+- Build responsive user interfaces.
+- Develop and integrate REST APIs.
+- Connect applications with databases.
+- Debug and maintain applications.
+- Write clean and reusable code.
+- Test application functionality.
+
+Experience:
+Fresher / 0-1 years

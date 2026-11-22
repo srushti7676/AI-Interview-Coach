@@ -1,0 +1,24 @@
+Job Title: Frontend Developer
+
+Required Skills:
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Responsive web design
+- DOM manipulation
+- REST API integration
+- Git and GitHub
+- Basic UI/UX principles
+
+Responsibilities:
+- Develop user-friendly web interfaces.
+- Build responsive web pages.
+- Create reusable React components.
+- Integrate frontend applications with REST APIs.
+- Debug and fix UI issues.
+- Improve website performance.
+- Ensure cross-browser compatibility.
+
+Experience:
+Fresher / 0-1 years

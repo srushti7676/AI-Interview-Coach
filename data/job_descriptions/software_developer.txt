@@ -1,0 +1,21 @@
+Job Title: Software Developer
+
+Required Skills:
+- Python or Java programming
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- SQL and databases
+- Problem solving
+- Software development fundamentals
+- Git and GitHub
+
+Responsibilities:
+- Develop and maintain software applications.
+- Write clean and efficient code.
+- Identify and fix software bugs.
+- Test application functionality.
+- Collaborate with development teams.
+- Improve software performance.
+
+Experience:
+Fresher / 0-1 years
